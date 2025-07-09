@@ -45,7 +45,7 @@ class Bless:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Bless - BOT
+        {Fore.CYAN + Style.BRIGHT}Auto Ping Bless - BOT
             """
             f"""
         {Fore.GREEN + Style.BRIGHT}Real API Version - No Masking
