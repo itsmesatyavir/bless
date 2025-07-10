@@ -1,0 +1,5 @@
+aiohttp
+fake-useragent
+colorama
+pytz
+requests
